@@ -1,0 +1,1 @@
+{"timestamp":101537577170,"previousHash":"004f9479acb6f8955dca29807413baf74a252f6e1df2918819d9cf38dc5d364e","transactions":[{"inputs":[],"outputs":[{"outputScript":["01","02","00","be3a5cdfdb86ccff7a73a03b161fcfff0b06440d","03","04"],"value":5000000000}]}],"nonce":"17a9b121ca8a02a1a6cda1ca80131ae1cccf02c90d774579eeadec6e5466cd0e"}
